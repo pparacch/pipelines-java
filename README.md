@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/PPAR0079/test_java_pipeline/_apis/build/status/pparacch.pipelines-java?branchName=master)](https://dev.azure.com/PPAR0079/test_java_pipeline/_build/latest?definitionId=4&branchName=master)
+
 
 # Contributing
 
